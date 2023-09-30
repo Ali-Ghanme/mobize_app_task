@@ -17,7 +17,7 @@ Future<void> main() async {
   await di.init();
 
   WidgetsFlutterBinding.ensureInitialized();
-
+// tests
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,
   );
