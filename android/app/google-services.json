@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "209414494148",
+    "project_id": "mobileapp-256e8",
+    "storage_bucket": "mobileapp-256e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209414494148:android:ef385974ebe4807b253691",
+        "android_client_info": {
+          "package_name": "com.example.mobize_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209414494148-91nfv1usk3gh1f68jp5tegdin2svc6nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobize_app",
+            "certificate_hash": "4e5b984e7cb4fe3349c02b90c634b1950d856223"
+          }
+        },
+        {
+          "client_id": "209414494148-tsth0kbkgripnhj1cfutgo43qebnvq50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQdSPsQNjtfelyPXH6HN94acrqaw38s8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209414494148-tsth0kbkgripnhj1cfutgo43qebnvq50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "209414494148-ovnb9irkirok7ikmh8ftjnjioc02h8qr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobizeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
