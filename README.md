@@ -1,7 +1,7 @@
 # Mobize App Test
 <div style="display: flex; flex-direction: row;">
   <img src="screen_one.jpg" alt="App Screenshot" width="300" style="margin-right: 10px;">
-  <img src="screen_two.jpg" alt="App Screenshot" width="300" style="margin-right: 10px;">
+  <img src="screen_tow.jpg" alt="App Screenshot" width="300" style="margin-right: 10px;">
   <img src="screen_three.jpg" alt="App Screenshot" width="300">
 </div>
 
