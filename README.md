@@ -1,7 +1,7 @@
 # Mobize App Test
-![App Screenshots](/path/to/screenshots.png)
-![App Screenshots](/path/to/screenshots.png)
-![App Screenshots](/path/to/screenshots.png)
+![App Screenshots](screen_one.jpg)
+![App Screenshots](screen_tow.jpg)
+![App Screenshots](screen_three.jpg)
 
 ## Features
 
