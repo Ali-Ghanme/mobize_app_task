@@ -1,7 +1,7 @@
 # Mobize App Test
-![App Screenshots](screen_one.jpg)
-![App Screenshots](screen_tow.jpg)
-![App Screenshots](screen_three.jpg)
+<img src="screen_one.jpg" alt="App Screenshot" width="300" height="600">
+<img src="screen_two.jpg" alt="App Screenshot" width="300" height="600">
+<img src="screen_three.jpg" alt="App Screenshot" width="300" height="600">
 
 ## Features
 
