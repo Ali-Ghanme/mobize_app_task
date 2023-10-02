@@ -1,7 +1,9 @@
 # Mobize App Test
-<img src="screen_one.jpg" alt="App Screenshot" width="100" height="100">
-<img src="screen_two.jpg" alt="App Screenshot" width="100" height="100">
-<img src="screen_three.jpg" alt="App Screenshot" width="100" height="100">
+<div style="display: flex; flex-direction: row;">
+  <img src="screen_one.jpg" alt="App Screenshot" width="250" style="margin-right: 10px;">
+  <img src="screen_two.jpg" alt="App Screenshot" width="250" style="margin-right: 10px;">
+  <img src="screen_three.jpg" alt="App Screenshot" width="250">
+</div>
 
 ## Features
 
